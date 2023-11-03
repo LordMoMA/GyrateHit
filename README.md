@@ -2,6 +2,8 @@
 
 A bare-bones game for time-killing.
 
+![Play the Demo](https://gyratehit.netlify.app/)
+
 References:
 
 - https://coogyloop.com/
