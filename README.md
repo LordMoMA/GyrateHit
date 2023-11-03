@@ -2,7 +2,7 @@
 
 A bare-bones game for time-killing.
 
-![Play the Demo](https://gyratehit.netlify.app/)
+[Play the Demo](https://gyratehit.netlify.app/)
 
 References:
 
@@ -11,4 +11,4 @@ References:
 - http://lea.verou.me/2012/02/moving-an-element-along-a-circle/
 - https://css-tricks.com/get-value-of-css-rotation-through-javascript/
 - https://stackoverflow.com/a/47653643
-# GyrateHit
+
